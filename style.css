@@ -457,7 +457,7 @@ footer{
         display: none;
     }
     .info p:first-child{
-        font-size: 42px;
+        font-size: 30px;
     }
     .info a{
         width: 86%;
@@ -494,11 +494,11 @@ footer{
         height: 120%;
     }
     .containerMod h2{
-        font-size: 40px;
-        width: 84%;
+        font-size: 30px;
+        width: 120%;
     }
     .containerMod p, .pMod{
-        width: 82%;
+        width: 100%;
     }
     .containerMod a{
         width: 84%;
@@ -519,6 +519,12 @@ footer{
         font-size: 20px;
     }
     #message3{
+        width: 90%;
+    }
+    .message2{
+        width: 80%;
+    }
+    #message2{
         width: 90%;
     }
     footer{
@@ -554,5 +560,8 @@ footer{
     }
     .social-media{
         display: none;
+    }
+    .carreras .iconos{
+        flex-direction: column;
     }
 }
